@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Running ",
+        "description": "Evening Excercise",
+        "deadline": "Everyday",
+        "priority": "1",
+        "completed": true
+    },
+    {
+        "title": "Complete Stats Lab work ",
+        "description": "Hypothesis need to be completed",
+        "deadline": "23/03/24",
+        "priority": "2",
+        "completed": false
+    }
+]
