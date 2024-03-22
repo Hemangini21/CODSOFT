@@ -1,4 +1,4 @@
-# CODSOFT
+# Python Projects 
 
 ### 1. To Do List 
 #####   The provided Tkinter-based To-Do List application manages tasks through checkboxes, displaying task title, priority, and completion status. Users can add,            edit,and delete tasks via buttons, inputting task details in pop-up windows. Tasks are stored in a JSON file for data persistence, loading at startup and             saving upon user request. Checkbox functionality enables users to toggle task completion status, marking checkboxes for completed tasks. Overall, the                 application offers a simple yet effective solution for organizing and managing tasks.
